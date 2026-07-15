@@ -1,26 +1,108 @@
 <h1 align="center">Hi 👋, I'm Yashodip Rajput</h1>
 
-<h3 align="center">
-Java Developer • Spring Boot Learner • React Developer
-</h3>
-
 <p align="center">
-Passionate about Backend Development, DSA, and building impactful software.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3DDCFF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;React+Developer;DSA+Enthusiast;National+Hackathon+Finalist;Astronomy+Enthusiast" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSE Undergraduate
-- 🌱 Currently learning **Spring Boot & React**
-- 💻 Love solving **DSA** problems in Java
-- 🏆 National Hackathon Finalist
-- 🌌 Astronomy & Space Enthusiast
+🎓 B.Tech CSE Undergraduate
+
+💻 Passionate about Java Backend Development
+
+🌱 Currently learning Spring Boot & React
+
+🧠 Solving DSA problems daily
+
+🏆 National Hackathon Finalist
+
+🌌 Space & Astronomy Enthusiast
 
 ---
 
-### 📫 Connect with me
+## 💻 Tech Stack
 
-- LinkedIn: https://linkedin.com/in/yashodip-rajput-70bb47299
-- LeetCode: https://leetcode.com/u/Yashodip45/
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashodip0104&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodip0104&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodip0104&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+🥈 National Hackathon Finalist
+
+🥇 Paper Presentation Winner
+
+🏅 Passionate Java Developer
+
+🚀 Learning Spring Boot
+
+---
+
+## 📌 Featured Projects
+
+🔹 EV Thermal Monitoring System
+
+🔹 Soybean Disease Detection
+
+🔹 React Learning Projects
+
+🔹 Expense Tracker (Coming Soon)
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- React
+- System Design
+- Advanced DSA
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/yashodip-rajput-70bb47299">
+LinkedIn
+</a>
+
+<br>
+
+<a href="https://leetcode.com/u/Yashodip45/">
+LeetCode
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ "Exploring Code Like the Universe." 🌌
+
+</p>
