@@ -54,7 +54,7 @@
 
 🥈 National Hackathon Finalist
 
-🥇 Paper Presentation Winner
+🥇 Project Competition Winner
 
 🏅 Passionate Java Developer
 
@@ -69,8 +69,6 @@
 🔹 Soybean Disease Detection
 
 🔹 React Learning Projects
-
-🔹 Expense Tracker (Coming Soon)
 
 ---
 
