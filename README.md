@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yashodip Rajput</h1>
 
-<!--
-**yashodip0104/yashodip0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Java Developer • Spring Boot Learner • React Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Backend Development, DSA, and building impactful software.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech CSE Undergraduate
+- 🌱 Currently learning **Spring Boot & React**
+- 💻 Love solving **DSA** problems in Java
+- 🏆 National Hackathon Finalist
+- 🌌 Astronomy & Space Enthusiast
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/yashodip-rajput-70bb47299
+- LeetCode: https://leetcode.com/u/Yashodip45/
