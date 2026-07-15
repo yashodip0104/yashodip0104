@@ -12,14 +12,14 @@
   <img src="https://media.giphy.com/media/xUOxfhps1EYVcHrGVu/giphy.gif" width="450">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/yashodip-rajput-70bb47299">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Yashodip45/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=3DDCFF" width="100%"/>
 
