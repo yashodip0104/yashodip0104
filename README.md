@@ -47,13 +47,6 @@ I'm here to explore both. 🌌
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=3DDCFF" width="100%"/>
 
-## 📡 Mission Stats — GitHub Telemetry
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashodip0104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3DDCFF&icon_color=3DDCFF"/>
-
-</p>
-
 ## 🏆 Achievements — Mission Log
 
 <div align="center">
